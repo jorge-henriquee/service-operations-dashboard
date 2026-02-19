@@ -5,12 +5,9 @@ Sistema desenvolvido para monitoramento e gestão operacional de ordens de servi
 Por motivos de confidencialidade, o código-fonte completo e integrações não estão disponíveis publicamente.
 
 📊 Funcionalidades:
-
-Dashboard operacional
-
--Monitoramento de ordens de serviço
-
--Consulta rápida de dados operacionais
+• Dashboard operacional
+• Monitoramento de ordens de serviço
+• Consulta rápida de dados operacionais
 
 🛠 Tecnologias Utilizadas:
 
