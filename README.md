@@ -30,3 +30,12 @@ Reduzir o tempo de busca por informações operacionais e proporcionar maior vis
 
 🔒 Confidencialidade:
 Este repositório possui finalidade exclusivamente demonstrativa para portfólio profissional.
+## 🖥️ Visual do Sistema
+
+<img width="1353" height="641" alt="Design sem nome" src="https://github.com/user-attachments/assets/d4524495-a654-4c4a-b3c8-771850da87c1" />
+
+<img width="1353" height="641" alt="1" src="https://github.com/user-attachments/assets/9b9e2f2b-7f3e-4d90-b954-4ddc4e5363eb" />
+
+<img width="1353" height="641" alt="2" src="https://github.com/user-attachments/assets/1b48ab4d-2686-4a5c-85f0-8a46031e87ca" />
+
+
