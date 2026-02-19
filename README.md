@@ -4,10 +4,10 @@ Sistema desenvolvido para monitoramento e gestão operacional de ordens de servi
 ⚠️ Este projeto foi desenvolvido para uso interno de um negócio privado.
 Por motivos de confidencialidade, o código-fonte completo e integrações não estão disponíveis publicamente.
 
-📊 Funcionalidades:
-• Dashboard operacional
-• Monitoramento de ordens de serviço
-• Consulta rápida de dados operacionais
+📊 Funcionalidades:<br>
+• Dashboard operacional<br>
+• Monitoramento de ordens de serviço<br>
+• Consulta rápida de dados operacionais<br>
 
 🛠 Tecnologias Utilizadas:
 
