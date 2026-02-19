@@ -10,6 +10,9 @@ Por motivos de confidencialidade, o código-fonte completo e integrações não 
 -Consulta rápida de dados operacionais
 
 🛠 Tecnologias Utilizadas:
+
+<img width="1353" height="641" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/44b174d7-7219-44ac-ac12-b674988b2edc" />
+
 -Node.js
 -Express.js
 -Banco de Dados Relacional
